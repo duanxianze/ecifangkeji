@@ -1,0 +1,17 @@
+nav{
+	margin-top: 25px;
+}
+nav li{
+	width: 15%;
+}
+footer{
+	text-align: center;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+}
+.page{
+	min-height: 200px;
+	font-size: 25px;
+	font-family: "微软雅黑";
+}
